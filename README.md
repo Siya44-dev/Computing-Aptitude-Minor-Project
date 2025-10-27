@@ -20,6 +20,7 @@ This program allows users to test their knowledge across multiple categories suc
 ✅ Input Validation: Ensures correct and safe user input.
 
 
+
 🧩 Concepts Used
 - Arrays
 - Conditional statements (if, else if, switch)
@@ -29,11 +30,13 @@ This program allows users to test their knowledge across multiple categories suc
 - String handling
 - Sorting (Bubble sort for leaderboard)
 
+
 Example Categories
 - General Knowledge
 - Science
 - Mathematics
 - Programming
+
 
 📂 Source Code
 
