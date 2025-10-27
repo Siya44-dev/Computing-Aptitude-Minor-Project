@@ -7,7 +7,9 @@ This program allows users to test their knowledge across multiple categories suc
 📘 Features
 
 🧠 Multiple Categories: Choose from four quiz topics.
+
 ⚙️ Dynamic Question Loading: Questions are loaded based on the selected category.
+
 🎮 Interactive Gameplay: Displays each question with four options (A, B, C, D).
 🏆 Leaderboard: Tracks and ranks player scores.
 📊 Detailed Results: Shows score, grade, percentage, and optional detailed answers.
