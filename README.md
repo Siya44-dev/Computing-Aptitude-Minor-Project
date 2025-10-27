@@ -6,6 +6,7 @@ A Quiz Application built using C++, demonstrating the use of arrays, conditional
 This program allows users to test their knowledge across multiple categories such as General Knowledge, Science, Mathematics, and Programming, and keeps a leaderboard of top scores.
 
 📘 Features
+
 🧠 Multiple Categories: Choose from four quiz topics.
 
 ⚙️ Dynamic Question Loading: Questions are loaded based on the selected category.
